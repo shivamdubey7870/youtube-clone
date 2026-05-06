@@ -18,6 +18,7 @@ const VideoCard = ({info}) => {
     // const{snippet,statistics}=info;
     // const{channelTitle,title,thumbnails}=snippet;
     // const{viewCount}=statistics;
+    // pasting for Git
   return (
     <div className="m-2  p-2 w-64 h-auto bg-gray-100 rounded-lg shadow-md">
       <img className="rounded-lg" src={thumbnails.medium.url} alt={title} />
