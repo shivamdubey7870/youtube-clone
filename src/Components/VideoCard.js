@@ -20,6 +20,7 @@ const VideoCard = ({info}) => {
     // const{viewCount}=statistics;
     // pasting for Git
     // changes per branching
+    // new branch 2
   return (
     <div className="m-2  p-2 w-64 h-auto bg-gray-100 rounded-lg shadow-md">
       <img className="rounded-lg" src={thumbnails.medium.url} alt={title} />
